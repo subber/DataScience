@@ -1,2 +1,2 @@
 # DataScience
-test
+*test
